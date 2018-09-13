@@ -104,6 +104,7 @@
                     <pushHotfixes>true</pushHotfixes>
                     <pushReleases>true</pushReleases>
                     <enableSshAgent>true</enableSshAgent>
+                    <noDeploy>true</noDeploy>
                     <!-- see goals wiki page for configuration options -->
                 </configuration>
             </plugin>
